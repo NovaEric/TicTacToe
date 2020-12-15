@@ -1,0 +1,2 @@
+.Square{width:100px;height:100px;background-color:#6495ed;color:#ee0b56;font-size:4 rem;border:4px solid #ee0b56;font-weight:700}.Square:hover{cursor:pointer}.Board{font-family:sans-serif;flex-direction:column;justify-content:center;align-items:center}.Board,.Row{display:flex}.Reset{margin-top:1rem;border:2px solid coral;color:#1e90ff;font-size:1.25rem;padding:1rem 4rem;border-radius:.5rem;background-color:#a9a9a9}.Reset:hover{cursor:pointer}
+/*# sourceMappingURL=main.50b375a4.chunk.css.map */
